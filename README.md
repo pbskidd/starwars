@@ -1,5 +1,5 @@
 # starwars
- Starwars themed Evuite.
+ Starwars themed Evite.
  
 So, once again I was underwhelmed by my options for digital invitations.  While hosting a movie night for the school, I decided to make my own to honor the great Star Wars movie. 
 
